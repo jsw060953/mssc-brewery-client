@@ -10,7 +10,7 @@
     </parent>
     <groupId>guru.springframework</groupId>
     <artifactId>mssc-brewery-client</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <!--<version>0.0.1-SNAPSHOT</version> -->
     <name>mssc-brewery-client</name>
     <description>SFG Brewery Client</description>
 
